@@ -13,6 +13,11 @@ body {
   background-color: black;
 }
 
+#video {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
 .social {
   position: absolute;
   bottom: 1rem;
