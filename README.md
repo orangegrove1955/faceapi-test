@@ -1,6 +1,6 @@
 # Faceapi test repo
 
-An introductory, test repository to try out simple aspects of faceapi.
+An introductory, test repository to try out simple aspects of [faceapi](https://github.com/justadudewhohacks/face-api.js/).
 
 # What I learned
 
