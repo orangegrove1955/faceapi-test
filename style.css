@@ -18,6 +18,10 @@ body {
   transform: scaleX(-1);
 }
 
+canvas {
+  position: absolute;
+}
+
 .social {
   position: absolute;
   bottom: 1rem;
