@@ -11,4 +11,4 @@ An introductory, test repository to try out simple aspects of [faceapi](https://
 
 # Demo
 
-Check out the [Github page](https://orangegrove1955.github.io/faceapi-test/)
+Check out the [Netlify demo](https://faceapi-test.netlify.app/)
